@@ -1,4 +1,4 @@
-
+"Olá, apresento meu primeiro código pelo visual g"
 Var
 informacao: caracter
 inicio
