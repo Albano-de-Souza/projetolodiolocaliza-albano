@@ -1,4 +1,4 @@
-"Olá,meu nome é Albano e apresento meu primeiro código pelo visual g"
+"Olá,meu nome é Albano de Souza e apresento meu primeiro código pelo visual g"
 Var
 informacao: caracter
 inicio
