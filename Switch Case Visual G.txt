@@ -1,0 +1,22 @@
+
+Var
+informacao: caracter
+inicio
+escreval ("O que deseja pesquisar? Notbook, Desktop, AMD ou Intel")
+leia (informacao)
+
+escolha informacao
+
+caso "Notebook"
+escreval ("É um computador portátil, recomendado para uso comercial")
+
+caso "Desktop"
+escreval ("É o tipo mais comum de computadores utilizadas em empresas")
+
+caso "AMD"
+escreval ("É uma fabricante de processadores, principalmente da linha gamer")
+
+caso "Intel"
+escreval ("É atualmente a principal fabricante de processadores do mundo")
+
+fim de escolha
